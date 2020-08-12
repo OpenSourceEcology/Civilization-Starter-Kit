@@ -4,7 +4,9 @@ The Global Village Construction Set (GVCS) is a modular, DIY, low-cost set of bl
 
 Learn more:
 The Ted Talk https://www.youtube.com/watch?v=53T5eYxGf3I
+
 The Site https://www.opensourceecology.org/gvcs/
+
 The Wiki https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set
 
 # Credit
