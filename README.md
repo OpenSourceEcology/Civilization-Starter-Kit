@@ -1,8 +1,9 @@
 # Welcome to the Global Village Civilization Starter Kit Documentation 
 
-The Global Village Construction Set (GVCS) is a modular, DIY, low-cost set of blueprints that enables fabrication of the 50 different Industrial Machines that it takes to build a small, sustainable civilization with modern comforts. The name, GVCS, has been coined for the first time in 2008 - at a lecture at the University of Missouri, Columbia - see UM Presentation. 
+The Global Village Construction Set (GVCS) is a modular, DIY, low-cost set of blueprints that enables fabrication of the 50 different Industrial Machines that it takes to build a small, sustainable civilization with modern comforts. 
 
 Learn more:
+
 The Ted Talk https://www.youtube.com/watch?v=53T5eYxGf3I
 
 The Site https://www.opensourceecology.org/gvcs/
